@@ -33,6 +33,3 @@ $ rails db:seed
 
 Rendez-vous ensuite sur le site 👉 [The Gossip Project](http://localhost:3000/)
 
-## Crédit README :
-[Guillaume Reygner](https://github.com/guillaume-rygn)
-
